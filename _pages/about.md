@@ -10,4 +10,4 @@ redirect_from:
 
 Welcome!
 
-I am Katherine, a first year Ph.D. student at the University of Washington. 
+I am Katherine, a first year Ph.D. student at the University of Washington. This site is currenlty under construction.
