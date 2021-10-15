@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Katherine Juarez"
 title_separator          : "-"
 name                     : &name "Katherine Juarez"
-description              : &description "Ph.D. Student at University of Washington"
+description              : &description "Computer Science Ph.D. Student at University of Washington"
 url                      : https://katherinejuarez.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "katherinejuarez/katherinejuarez.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Katherine Juarez"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student at the University of Washington"
+  bio              : "Computer Science Ph.D. Student at the University of Washington"
   location         : "Seattle, Washington"
   employer         :
   pubmed           :
   googlescholar    :
-  email            :
+  email            : "kajuarez@cs.washington.edu"
   researchgate     :
   uri              :
   bitbucket        :
