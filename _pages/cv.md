@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, Wake Forest University, 2019
-* Ph.D in Computer Science, Univeristy of Washington, 2026 (expected)
+* Ph.D in Computer Science, University of Washington, 2026 (expected)
 
 Work experience
 ======
@@ -31,12 +31,9 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Go, Python, Java, C/C++, C#, Terraform, SQL, HTML/CSS, React.js, CircleCI
+* Certifications: AWS Solutions Architect Associate
+* Languages: English and Spanish
 
 Publications
 ======
