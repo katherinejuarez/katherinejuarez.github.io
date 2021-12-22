@@ -1,13 +1,11 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "In the Media"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
-
-## In the Media
 
 [HomeIsHere](https://blog.redventures.com/homeishere-what-15-rvers-learned-on-the-supreme-court-steps/)
 :   Read about my experience attending the rally for the Supreme Court oral argument hearings for Deferred Action for Childhood Arrivals (DACA) in Washington, DC.
