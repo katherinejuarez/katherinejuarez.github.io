@@ -12,7 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, Wake Forest University, 2019
-* Ph.D in Computer Science, University of Washington, 2026 (expected)
+* M.S. in Computer Science & Engineering, University of Washington, 2023
+* Ph.D in Computer Science & Engineering, University of Washington, 2026 (expected)
 
 Work experience
 ======
