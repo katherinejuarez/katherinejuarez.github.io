@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Katherine Juarez"
-  pronouns         : "she/her"  
+  pronouns         : # "she/her"  
   bio              : "Computer Science Ph.D. Student"
   location         : "Seattle, WA"
-  employer         : "Wake Forest University"
+  employer         : "University of Washington"
   uri              : # URL
   email            : "kajuarez@cs.washington.edu" 
 
