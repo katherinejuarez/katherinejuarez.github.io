@@ -37,3 +37,14 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* Fonts: IBM Plex Serif headings, IBM Plex Sans body */
+html, body {
+  font-family: "IBM Plex Sans", -apple-system, "Helvetica Neue", Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6,
+.page__title,
+.author__name {
+  font-family: "IBM Plex Serif", Georgia, "Times New Roman", serif;
+}
