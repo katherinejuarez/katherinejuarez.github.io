@@ -29,3 +29,12 @@ Menopause is often overlooked or treated as purely medical, and stigma, family d
 **My role:** As third author, I helped design the study protocol, conducted study sessions, and analyzed the data, including conducting and analyzing all sessions held in Spanish. I also contributed to writing the paper.
 
 - [Menopause Legacies: Designing to Record and Share Experiences of Menopause Across Generations](https://doi.org/10.1145/3686975), CSCW 2024
+
+## Identifying Process Behavior with Dynamic Analysis
+
+Knowing how a running program behaves, such as whether it's reading files, doing heavy computation, or managing other processes, can help system administrators allocate resources and enforce policies. Analyzing a program's code before it runs shows what it could do, but not what it actually does. We developed a dynamic analysis approach that records the machine instructions a process executes and condenses them into compact instruction profiles for machine learning. In my honors thesis, I used these profiles to classify pairs of similar Linux utilities. Removing library instructions, grouping instructions into functional categories, and using short instruction sequences shrank the data while keeping classification accuracy between 98% and 100%. In follow-up work, we showed that clustering these profiles grouped utilities by their behavior, something static analysis couldn't do.
+
+**My role:** I led this work as my undergraduate honors thesis, advised by Professor Errin W. Fulp. I extended an existing instruction-tracing tool and built a Python pipeline that generates instruction profiles from millions of executed instructions, reduces their dimensionality through instruction mapping and k-length sequence features, and classifies processes using support vector machines evaluated with 10-fold cross-validation. As second author on the follow-up paper presented at ISNCC 2020, I built the pipeline for its methodology, generating the execution profiles and evaluating how well Gaussian mixture model clustering matched the true behavior groups using silhouette scores and the Adjusted Rand Index.
+
+- [Using Execution Profiles to Identify Process Behavior Classes](https://ieeexplore.ieee.org/document/9297303), ISNCC 2020
+- Process Prediction Using Dynamic Analysis with Instruction Sequences, Honors Thesis, Wake Forest University, 2019

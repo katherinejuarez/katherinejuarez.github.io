@@ -11,4 +11,4 @@ redirect_from:
 
 # CV
 
-A PDF of my CV can be viewed [here](https://docs.google.com/KatherineJuarez_CV.pdf) (coming soon).
+A PDF of my CV coming soon.
