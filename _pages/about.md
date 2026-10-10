@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "Hello!"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Hello! 
 
 I am Katherine, a Ph.D. student at the University of Washington Paul G. Allen School of Computer Science & Engineering. I am broadly interested in Human-Computer Interaction (HCI) and health. I approach research through a decolonial lens, questioning whose values and ways of knowing become ingrained in the systems we design, and who gets left out. Through my research, I hope to collaborate with underserved communities to build systems that have the potential to address health disparities.
 
