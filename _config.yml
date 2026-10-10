@@ -23,12 +23,12 @@ repository               : "katherinejuarez/katherinejuarez.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Katherine Juarez"
   pronouns         : "she/her"  
-  bio              : "Computer Science Ph.D. Student at University of Washington"
+  bio              : "Computer Science Ph.D. Student"
   location         : "Seattle, WA"
-  employer         : "Red Brick University"
+  employer         : "Wake Forest University"
   uri              : # URL
   email            : "kajuarez@cs.washington.edu" 
 

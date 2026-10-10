@@ -38,13 +38,45 @@
     "layout/json_cv"
 ;
 
-/* Fonts: IBM Plex Serif headings, IBM Plex Sans body */
+/* ==========================================================
+   Custom fonts: IBM Plex Serif headings, IBM Plex Sans body
+   ========================================================== */
+
+/* Body text */
 html, body {
   font-family: "IBM Plex Sans", -apple-system, "Helvetica Neue", Arial, sans-serif;
 }
 
+/* Headings */
 h1, h2, h3, h4, h5, h6,
-.page__title,
-.author__name {
+.page__title {
   font-family: "IBM Plex Serif", Georgia, "Times New Roman", serif;
+}
+
+/* Nav bar: same serif as the headings */
+.masthead,
+.greedy-nav a,
+.site-title {
+  font-family: "IBM Plex Serif", Georgia, "Times New Roman", serif !important;
+}
+
+.greedy-nav a {
+  font-weight: 500;
+}
+
+.site-title {
+  font-weight: 700;
+}
+
+/* Sidebar and footer: sans to match the body */
+.sidebar,
+.author__urls,
+.author__urls a,
+.page__footer {
+  font-family: "IBM Plex Sans", -apple-system, "Helvetica Neue", Arial, sans-serif !important;
+}
+
+/* Your name in the sidebar: serif to match the headings */
+.sidebar .author__name {
+  font-family: "IBM Plex Serif", Georgia, "Times New Roman", serif !important;
 }
