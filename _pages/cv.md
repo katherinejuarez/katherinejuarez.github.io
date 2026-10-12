@@ -11,4 +11,4 @@ redirect_from:
 
 # CV
 
-A PDF of my CV coming soon.
+A PDF of my CV can be viewed [here](https://drive.google.com/file/d/1e5aIM006K1XbYk934MPPChl-sXriehYf/view?usp=sharing).
